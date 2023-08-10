@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="42U 3100 SP1 NetShelter Rack">aad3404ac3283510310253beb0013174</sc_cat_item>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:12:36</sys_created_on>
+        <sys_id>2ad3404ac3283510310253beb001317c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.42U 3100 SP1 NetShelter Rack</sys_name>
+        <sys_package display_value="Wishlist" source="x_876872_wishlist">602888e9c324b110310253beb0013158</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">602888e9c324b110310253beb0013158</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2ad3404ac3283510310253beb001317c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:12:36</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
